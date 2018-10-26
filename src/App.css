@@ -1,0 +1,28 @@
+
+.App{
+  display: flex;
+  flex-direction: column;
+  width: 440px;
+  min-height: 63vh;
+  box-shadow: 0 0 20px grey;
+  padding: 100px;
+  margin: 70px auto 0;
+}
+
+.App-show-hide {
+  background: none;
+  border: none;
+  font-style: italic;
+  color: #5B47CF;
+  padding: 0;
+  width: fit-content;
+  margin-top: 40px;
+  cursor: pointer;
+}
+
+h1{
+  font-weight: bold;
+  color: #4a4a4a;
+  font-size: 40px;
+  margin-top: 0;
+}
